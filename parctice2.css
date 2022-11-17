@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+
+    padding: 0px;
+}
+#wrapper{
+    background-color: orange;
+}
+.no{background-color: orange;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+.no span{color: aqua;
+}
+
+ul{display: flex;}
+
+ul li{list-style: none;
+    color: chartreuse;
+    padding: 10px;
+
+
+}
+li a{text-decoration: none;
+    padding: 20px;
+    color: white;
+    border-left: 2px solid;
+}
+
+.yesh{background-image: url("images/wallpapersden.com_the-new-iron-throne-house-of-the-dragon_3840x1920.jpg");
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ram{
+    display: flex;
+
+}
+.ram p{border: 1px solid;
+text-align: center;
+padding: 10px;
+border-radius: 10px;
+margin: 5px;
+background-color: white;
+}
+.one{
+    display: flex;
+}
+.two h3{
+    padding: 10px;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    text-align: center;
+    margin: 8px 0;
+}
+.three{
+    padding:20px;
+    border-left: 2px solid gray;
+}
+.three p{
+    padding: 16px;
+}
+.two{
+    width: 260px;
+    padding: 30px;
+}
